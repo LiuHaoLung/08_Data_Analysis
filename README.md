@@ -1,5 +1,6 @@
 # Data-Analysis
 	1. BeautifulSoup：用來執行網路爬蟲。
+	![avater](/Users/How.Short/Desktop/Python內容/Data-Visualization/BeautifulSoup.png)
 	2. Numpy：用來執行陣列操作。
 	3. Openpyxl：用來執行 Excel 自動化。
 	4. Pandas：用來執行數據分析。
